@@ -86,3 +86,66 @@ canvas.fillStyle="rgb(228, 219, 0)"
 canvas.fillRect(400,625, 25, 50);
 canvas.fillRect(450, 575, 25 , 25);
 canvas.fillRect(350, 575, 25, 25);
+/*Letters*/
+canvas.fillStyle="rgb(0, 0, 0)"
+canvas.fillRect(50, 50, 15, 75);
+canvas.fillRect(50, 50, 50 , 15);
+canvas.fillRect(100, 65, 15, 15);
+canvas.fillRect(100, 95, 15, 30);
+canvas.fillRect(50, 80, 50 ,15);
+canvas.fillRect(50,125,50,15);
+canvas.fillRect(125, 50, 15, 90);
+canvas.fillRect(125, 50, 60, 15);
+canvas.fillRect(125, 85, 40, 15);
+canvas.fillRect(125, 125, 60, 15)
+canvas.fillRect(200, 65, 15, 75);
+canvas.fillRect(215, 50, 35, 15);
+canvas.fillRect(250, 65, 15 ,75);
+canvas.fillRect(215, 85, 35, 15);
+canvas.fillRect(275, 65, 15 ,60);
+canvas.fillRect(290, 50, 40, 15);
+canvas.fillRect(290, 125, 40, 15);
+canvas.fillRect(340, 50, 15, 90);
+canvas.fillRect(340, 80, 50, 15);
+canvas.fillRect(390, 50, 15, 90);
+canvas.fillRect(500, 50, 15, 90);
+canvas.fillRect(500, 50, 50, 15);
+canvas.fillRect(500, 125, 50, 15);
+canvas.fillRect(550, 65, 15, 60);
+canvas.fillRect(580, 65, 15, 75);
+canvas.fillRect(595, 50, 35, 15);
+canvas.fillRect(630, 65, 15 ,75);
+canvas.fillRect(590, 85, 40, 15);
+canvas.fillRect(675, 95, 15, 45);
+canvas.fillRect(660, 50, 15, 45);
+canvas.fillRect(690, 50, 15, 45);
+/*Wilson*/
+canvas.fillStyle = "rgb(255, 255, 255)";
+canvas.beginPath();
+canvas.arc(725, 500, 50, 0, 2*Math.PI);
+canvas.stroke();
+canvas.fill();
+canvas.fillStyle = "rgb(205, 40, 24)";
+canvas.fillRect(700, 475,50,50);
+canvas.fillStyle = "rgb(255,255,255)"
+canvas.fillRect(710, 490, 10, 10);
+canvas.fillRect(730, 490, 10, 10);
+canvas.fillStyle="rgb(205,40,24)"
+canvas.fillRect(712.5, 492.5, 5, 5);
+canvas.fillRect(732.5, 492.5, 5, 5);
+canvas.fillStyle="rgb(255,255,255)"
+canvas.fillRect(722.5, 500, 5 ,5)
+canvas.fillRect(710, 510, 32.5, 7.5);
+canvas.fillStyle="rgb(205,40,24)"
+canvas.fillRect(711.5, 512.5, 30, 3);
+canvas.fillRect(701, 460, 5, 15);
+canvas.fillRect(707,465,5,10);
+canvas.fillRect(713,455,5,20);
+canvas.fillRect(719,463,5,12);
+canvas.fillRect(725,458,5,17)
+canvas.fillRect(731,465,5,10);
+canvas.fillRect(737,460, 5,15);
+canvas.fillRect(743,465,5,10);
+canvas.fillStyle="rgb(255,255,255)";
+canvas.fillRect(745,520,5,5);
+canvas.fillRect(700,520,5,5);
