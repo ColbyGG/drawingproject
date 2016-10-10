@@ -1,8 +1,5 @@
 var canvasDiv = document.getElementById("drawingArea");
 var canvas = canvasDiv.getContext('2d');
-/*Sky*/
-canvas.fillStyle = "rgb(10, 207, 233)"
-canvas.fillRect(0, 0, 800, 400);
 /*Sun*/
 canvas.fillStyle = "rgb(214, 132, 7)";
 canvas.beginPath();
